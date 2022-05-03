@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Desafio Warren - Web</h1>
+<h1 style="text-align: center;">Projeto Front-end Smart Fit - Web</h1>
 
 ![Projeto Front-end Smart Fit](https://i.imgur.com/VuawYpd.png)
 
